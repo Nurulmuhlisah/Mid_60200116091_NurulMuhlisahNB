@@ -1,4 +1,6 @@
 <?php
 	$x ="MID KAKAS"
-	echo $X;
+	$y ="UINAM"
+	echo $x;
+	echo $y;
 ?>
